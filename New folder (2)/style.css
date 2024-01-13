@@ -1,0 +1,120 @@
+.body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right, #ff006a, #001aff);
+    ;
+}
+
+.container {
+    max-width: 1200px;
+    margin-inline: 20px;
+    padding-inline: 20px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.gaming-logo {
+    width: 150px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-links {
+    flex-basis: 700px;
+}
+
+.nav-links ul {
+    justify-content: end;
+    gap: 30px;
+}
+
+.the-link1 {
+    color: dodgerblue;
+    background-color: gold;
+    border-radius: 25px;
+    transition: 0.2s;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.the-link2 {
+    color: dodgerblue;
+    background-color:gold;
+    border-radius: 25px;
+    transition: 0.2s;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.the-link3 {
+    color: dodgerblue;
+    background-color: gold;
+    border-radius: 25px;
+    transition: 0.2s;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.the-link4 {
+    color: dodgerblue;
+    background-color: gold;
+    border-radius: 25px;
+    transition: 0.2s;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.the-link5 {
+    color: dodgerblue;
+    background-color:aliceblue;
+    border-radius: 25px;
+    transition: 0.2s;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+h3 {
+    color: #5cfc00;
+}
+
+h1 {
+    color: #5cfc00;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
+
+.search {
+    color: cyan;
+    background-color: antiquewhite;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
+.bt {
+    color: azure;
+    background-color: coral;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.header-right {
+    background: none;
+
+}
+
+.Hero {
+    width: 500px;
+    height: 500px;
+}
